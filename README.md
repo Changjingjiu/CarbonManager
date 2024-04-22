@@ -7,5 +7,5 @@ a CarbonManager Demo
 服务器用的 REDIS
 数据库还是平常的 MYSQL
 依赖我在文件里有标注
-后端主要还是运用 MYBATIS 代码生成器
+后端主要还是运用 SPRINGBOOT + MYBATIS 
 前端用的是VUE脚手架
