@@ -1,5 +1,5 @@
 # CarbonManager
-a CarbonManager Demo 
+a CarbonManager Demo (前后端分离双碳管理)
 一个双碳管理界面
 这个是我拿来做比赛和毕设用的 
 只是一个比较小的前后端分离项目 
